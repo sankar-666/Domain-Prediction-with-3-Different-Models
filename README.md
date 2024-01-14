@@ -1,11 +1,11 @@
-Project Name
+Project Name:
 Domain Prediction with 3 Different Models
 
-Description
+Description:
 In this project, I implemented an advanced domain prediction system by leveraging feature engineering techniques to enhance the dataset's information. To address class imbalance, I applied the Synthetic Minority Over-sampling Technique (SMOTE) to achieve a balanced target distribution. Employing state-of-the-art machine learning models, including K-Nearest Neighbors (KNN), Decision Tree, and Random Forest, I conducted a comprehensive analysis to predict domains effectively. Furthermore, optimization was carried out using Random Search to fine-tune model parameters, ensuring optimal performance and robust predictive capabilities.
 
 
-Usage
+Usage:
 Download the Dataset:
 Download the provided CSV dataset file and save it to your local machine.
 Save the downloaded dataset to your Google Drive.
